@@ -20,6 +20,7 @@ struct ContentView: View {
             
             // map view added in VStack
             MapView()
+                // create safe area at top of page
                 .edgesIgnoringSafeArea(.top)
                 .frame(height: 300)
             

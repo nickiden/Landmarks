@@ -4,7 +4,8 @@
 //
 //  Created by Nick Iden on 2019-12-31.
 //  Copyright © 2019 Nick Iden. All rights reserved.
-//
+//  Comments:
+//              This program page contains the map kit and    function for the Landmark app.
 
 import SwiftUI
 import MapKit
